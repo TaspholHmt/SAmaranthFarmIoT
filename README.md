@@ -1,2 +1,2 @@
 # SAmaranthFarmIoT
-Wellcome to my project.The name is SAmaranth Farm IoT
+Welcome to my project. The name is SAmaranth Farm IoT
